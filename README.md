@@ -20,13 +20,6 @@ This project is a showcase of React fundamentals, including state management, ev
 
 ---
 
-## Live Demo
-
-[Live Weather App Demo](#)  
-*(Replace "#" with the link to your deployed app, if available.)*
-
----
-
 ## Installation
 
 Follow these steps to set up the Weather Web Application locally:
